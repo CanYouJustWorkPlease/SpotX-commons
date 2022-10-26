@@ -154,9 +154,9 @@
                     "maxmatch": "#2e080b"
                 },
                 "4": {
-                    "pasttext": "#E40909B3",
+                    "pasttext": "#895502",
                     "current": "#C2C2C2",
-                    "next": "#CA861A",
+                    "next": "#895502",
                     "hover": "#0FD40F",
                     "background": "#121212",
                     "maxmatch": "#C2C2C2"
