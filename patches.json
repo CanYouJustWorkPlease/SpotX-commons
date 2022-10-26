@@ -154,10 +154,10 @@
                     "maxmatch": "#2e080b"
                 },
                 "4": {
-                    "pasttext": "#895502",
+                    "pasttext": "#760D0D",
                     "current": "#C2C2C2",
                     "next": "#895502",
-                    "hover": "#0FD40F",
+                    "hover": "#C2C2C2",
                     "background": "#121212",
                     "maxmatch": "#C2C2C2"
                 }
